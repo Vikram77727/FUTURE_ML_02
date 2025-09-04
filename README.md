@@ -76,7 +76,7 @@ Used the **Bank Customer Churn dataset** with details of 10,000 customers.
 ## ⚡ How to Run  
 
 ### Step 1: Train Models in Python  
-- Execute [`ml_task_2.py`](ml_task_2.py) → it preprocesses data, trains models, evaluates, and saves outputs.  
+- Execute [`ml_task_2.py`] → it preprocesses data, trains models, evaluates, and saves outputs.  
 - Generated files:  
   - `customer_churn_insights.csv` → customer churn predictions  
   - `feature_importance_random_forest.csv`  
@@ -84,8 +84,7 @@ Used the **Bank Customer Churn dataset** with details of 10,000 customers.
   - `feature_importance_logistic_regression.csv`  
 
 ### Step 2: Open Dashboard in Power BI  
-- Launch Power BI Desktop → open [`ML_Task_2.pbix`](ML_Task_2.pbix).  
-- Refresh connections to the exported CSVs.  
+- Launch Power BI Desktop → open [`ML_Task_2.pbix`]
 
 ---
 
