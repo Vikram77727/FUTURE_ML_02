@@ -66,8 +66,8 @@ Used the **Bank Customer Churn dataset** with details of 10,000 customers.
 ---
 
 ## 📈 Dashboard in Power BI  
-![Bank Churn Dashboard](<img width="1382" height="781" alt="Screenshot 2025-09-04 184856" src="https://github.com/user-attachments/assets/6cec933b-a652-47d8-996d-f5884c044eb0" />
-)  
+<img width="1382" height="781" alt="Screenshot 2025-09-04 184856" src="https://github.com/user-attachments/assets/fe14c631-1bb6-49c0-adf0-84e5a7b68922" />
+
 
 🔗 [Download Dashboard File](https://github.com/your-username/your-repo/blob/main/ML_Task_2.pbix)  
 
